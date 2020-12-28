@@ -1,3 +1,4 @@
 # Project 1
-Tribute page using CSS and html 
-tribute page d - registration form - html 
+<ol>
+  <li>Tribute page using CSS and html</li> 
+  <li>tribute page d - registration form - html </li> 
