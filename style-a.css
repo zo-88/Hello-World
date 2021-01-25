@@ -64,11 +64,11 @@ h1{
     text-shadow: 4px 3px 3px rgb(143, 142, 142);
 }
 #quote-1{
-    margin-left:100px;
-    margin-right:100px;
+   margin:auto;
+   max-width:500px;
     border-radius: 1%;
-    padding: 5px;
-        box-sizing: border-box;
+    padding: 15px;
+    box-sizing: border-box;
      box-shadow: 
          inset 0 -3em 3em rgba(0,0,0,0.1),
                0 0  0 2px rgb(255,255,255),

@@ -1,0 +1,15 @@
+body{
+background-image:url("robin1.jpg"); 
+background-repeat: repeat-x;   
+}
+
+h1{
+    color:rgba(0, 0, 0, 0.616);
+    background-color: rgba(255, 255, 255, 0.349);
+    text-align: center;
+    width:500px;
+    margin: 10px auto auto auto;
+    
+    font-size: 400%;
+}
+
